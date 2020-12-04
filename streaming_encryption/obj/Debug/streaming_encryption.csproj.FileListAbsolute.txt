@@ -1,0 +1,7 @@
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\bin\Debug\streaming_encryption.exe.config
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\bin\Debug\streaming_encryption.exe
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\bin\Debug\streaming_encryption.pdb
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\obj\Debug\streaming_encryption.csprojAssemblyReference.cache
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\obj\Debug\streaming_encryption.csproj.CoreCompileInputs.cache
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\obj\Debug\streaming_encryption.exe
+D:\InfSecurity\streaming-encryption\streaming_encryption\streaming_encryption\obj\Debug\streaming_encryption.pdb
